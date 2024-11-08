@@ -9,4 +9,9 @@ Smellsgud adalah project website e-commerce yang menyediakan berbagai brand parf
 #### Here is some of the content used in this project
 - Semantic HTML
 - Form tags (Radio button, textarea, input type text,etc.)
-- basic HTML Structure
+- HTML Structure
+- Advanced form
+- Animation and Grid
+- Applying custom font
+- Responsive images
+
